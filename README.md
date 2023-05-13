@@ -251,6 +251,21 @@
     </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mayur-505&show_icons=true&locale=en&layout=compact" alt="mayur-505" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mayur-505&show_icons=true&locale=en" alt="mayur-505" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayur-505&" alt="mayur-505" /></p>
+
+<h2><b><u> ⚙ GitHub Analytics </u></b></h2>
+
+<table>
+    <tbody>
+        <tr>
+            <td><<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayur-505&" alt="mayur-505" /></td>
+        </tr>
+    </tbody>
+</table>
+<table>
+    <tbody>
+        <tr>
+            <td><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mayur-505&show_icons=true&locale=en&layout=compact" alt="mayur-505" /></td>
+            <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=mayur-505&show_icons=true&locale=en" alt="mayur-505" /></td>
+        </tr>
+    </tbody>
+</table>
