@@ -251,9 +251,10 @@
     </a> 
 </p>
 
-<br/><br/>
+<br/>
 <hr>
-<br/><br/>
+<br/>
+
 <h2><b><u> ⚙ GitHub Analytics </u></b></h2>
 
 <table style="width:100%">
