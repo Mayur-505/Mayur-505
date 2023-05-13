@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayur-505&label=Profile%20views&color=0e75b6&style=flat" alt="mayur-505" /></p>
 
-<h2><b><u> Highlights </u></b></h2>
+<h2><b><u> 👋 Highlights </u></b></h2>
 
  <h4> <b> 🏆 Top-Rated Full Stack Developer, React.js, Next.JS, Node.js, API, React Native, Prestashop, Angular, WordPress, Shopify, Laravel, CodeIgniter, PHP. 🏆 </b></h4>
     <ul>
@@ -48,9 +48,9 @@
         <ul>
 
 
-<h3 align="left"><b> 🤝 Connect with me: </b></h3>
+<h2><b><u> 🤝 Connect with me: </u></b></h2>
 
-<p align="left">
+<div class="d-flex ">
 
    <a href="https://linkedin.com/in/mayur1213" target="blank"><img src="https://camo.githubusercontent.com/a493f6833f99fb3c85788d6d9305e6b7a42b838e5ee5d138fd9a8214a7e77472/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" style="max-width: 100%;"/></a>
 
@@ -62,11 +62,11 @@
 
    <a href="" target="blank"><img src="https://camo.githubusercontent.com/fb230422f3de8702b3079eb70d1dd19c4c7b9e139c113f663b12487501afdab5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f696e7374616772616d2d4534343035462e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465" style="max-width: 100%;"/></a>
 
-</p>
+</div>
 
 <hr>
 
-<h3 align="left">Languages and Tools:</h3>
+<h2><b><u> 💻 Languages && 🛠 Tools : </u></b></h2>
 
 <p align="left"> 
     <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
@@ -251,21 +251,24 @@
     </a> 
 </p>
 
-
+<br/><br/>
+<hr>
+<br/><br/>
 <h2><b><u> ⚙ GitHub Analytics </u></b></h2>
 
-<table>
-    <tbody>
-        <tr>
-            <td><<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayur-505&" alt="mayur-505" /></td>
+<table style="width:100%">
+    <tbody style="width:100%">
+        <tr style="width:100%">
+            <td style="width:100%"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayur-505&" alt="mayur-505" /></td>
         </tr>
     </tbody>
 </table>
-<table>
-    <tbody>
-        <tr>
-            <td><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mayur-505&show_icons=true&locale=en&layout=compact" alt="mayur-505" /></td>
-            <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=mayur-505&show_icons=true&locale=en" alt="mayur-505" /></td>
+<br/>
+<table style="width:100%">
+    <tbody style="width:100%">
+        <tr style="width:100%">
+            <td style="width:50%"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mayur-505&show_icons=true&locale=en&layout=compact" alt="mayur-505" /></td>
+            <td style="width:50%"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mayur-505&show_icons=true&locale=en" alt="mayur-505" /></td>
         </tr>
     </tbody>
 </table>
